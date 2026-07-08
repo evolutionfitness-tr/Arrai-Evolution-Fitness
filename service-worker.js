@@ -5,7 +5,7 @@
    forçar o refresh do cache nos dispositivos dos usuários.
    ========================================================================= */
 
-const CACHE_VERSION = "efs-junina-v2";
+const CACHE_VERSION = "efs-junina-v3";
 
 const APP_SHELL = [
   "./",
