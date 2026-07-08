@@ -1,0 +1,20 @@
+{
+  "name": "Arraiá da Evolution Fitness Studio",
+  "short_name": "Arraiá Evolution",
+  "description": "Confirme sua presença e escolha um item para a Festa Junina da Evolution Fitness Studio, Três Rios - RJ.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0B0C",
+  "theme_color": "#0B0B0C",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
